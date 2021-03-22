@@ -48,11 +48,11 @@ We can see that the number of canceled plays is cero, therefore we will disregar
 
 We will go ahead and create two new columns to gather this information, one titled ‘Percentage Successful’ and ‘Percentage Failed’. By looking at the percentages we can see that goals that were between less than $1,000 to $14,999 have a higher percentage of plays that were successful. Goals that ranged between $15,000 and $19,000 are split down the middle, meaning plays in that range have a 50/50 chance of succeeding or failing. Plays with range $20,000 to $34,999 have failed. The following information could potentially contain some outliers, given that is shows us that although plays under $34,999 failed, 6 plays between $35,000 and $44,999 seem to have succeeded in reaching their goal, meanwhile, 3 failed. Our last range of $45,000 to greater than $50,000 all failed. 
 
-![Pivot Table for Outcomes Based on Goal] (https://github.com/cynmmarin/Kickstarter-Analysis/blob/main/Pivot%20Table%20for%20Outcomes%20Based%20on%20Goal.png)![image](https://user-images.githubusercontent.com/80020326/111939768-5c160900-8a8a-11eb-85cf-d1129b324336.png)   
+![Pivot Table for Outcomes Based on Goal](https://github.com/cynmmarin/Kickstarter-Analysis/blob/main/Pivot%20Table%20for%20Outcomes%20Based%20on%20Goal.png)![image]  
 
 To better understand and visualize the relationship and trends between the percentage of success and failure of plays to the goal amount ranges, we will create a line chart. 
 
-![Outcomes_vs_Goals] (https://github.com/cynmmarin/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)![image](https://user-images.githubusercontent.com/80020326/111939776-633d1700-8a8a-11eb-908a-595c43d5c87b.png)
+![Outcomes_vs_Goals](https://github.com/cynmmarin/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
     
 The line chart of titled ‘Outcomes Based on Goal’ shines light to new information. The success rate seems to be decreasing as the goal amount increases, however it picks up once the amount increases to about $25,000. From there forward the rate of success has a somewhat steady increase until it hits $35,000. From that point on, both the success and failure rate plateaus, the success at 65% meanwhile the failure stays at an about 35%. The failure has an inverse relation to the success rate, therefore the greater the goal amounts the higher the risk of failure. These stops being true once the goal hits the $30,000 range, where we see that the number of failed plays decrease as the goal amount increases. Another feature we neglect to see on the chart is that there are two additional interceptions between the percentage of successful plays and the failed ones. The plays have a 50% chance of succeeding or failing somewhere in the range $30,000 to $39,999, and $40,000 to $45,000. Both the table and the line chart will help us draw our conclusions as to what is the impact of goals on the outcome.
 
@@ -81,7 +81,7 @@ That being said, we can explain to Louis that although the pledge amount of $2,4
 
 If we do a descriptive statistical analysis, we can see that some of the limitations of this dataset are outliers. For example, in the US, the mean of the successful outcomes for ‘Plays’ is $4,101 yet the medium is $2,500. Thus, the extreme goals for theater-building proposals result with a mean that’s located in the Upper Quartile. We can assume that this is because when the goal hits $30,000 range, is where we see that the number of failed plays decrease as the goal amount increases. We can also observe that the mean for successful pledged is also in the Upper Quartile. Outliers, play a big role in possibly changing the conclusions that were drawn for our analysis. 
 
-![Descriptive Statistical Analysis] (https://github.com/cynmmarin/Kickstarter-Analysis/blob/main/Descriptive%20Statistical%20Analysis.png)![image](https://user-images.githubusercontent.com/80020326/111939819-7fd94f00-8a8a-11eb-971c-10bf577bc29e.png)
+![Descriptive Statistical Analysis](https://github.com/cynmmarin/Kickstarter-Analysis/blob/main/Descriptive%20Statistical%20Analysis.png)
 
 
 ## Other Possible Tables and Graphs That We Could Create
