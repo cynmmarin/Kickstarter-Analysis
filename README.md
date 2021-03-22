@@ -12,6 +12,7 @@ For this analysis we will focus on the parent category ‘Theater’ and subcate
 
 ### The analysis will answer the following questions:
 -What impact does the launch date have on the success or failure of a play?
+
 -What conclusions can be drawn from the outcome of goals?
 
 The challenges with subjecting our analysis to only focusing on the subcategory of ‘Plays’ is that it will leave us with limited information, and we will be unable to fully understand what happened to other ‘Theater’ subcategories. In addition, this will not show us how launch dates may have affected the theater industry as a whole. We will be unable to know if there was a shortage just in the industry for that given year, of if the shortage only applied to plays. A second, limitation is narrowing our search to only US plays. Narrowing our data will limit our understanding of the impact that setting high or low goals can have on the rest of world. Third, the data for outcomes of goals seem to have outliers that may obstruct with our evaluation. Overall, we will see how the challenges play a role in our analysis. 
