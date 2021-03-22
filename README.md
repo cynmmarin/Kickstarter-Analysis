@@ -37,7 +37,7 @@ Let’s go back to Louis, her play was launched in 6/13/16 in the US. Using the 
 
 If we observe the success rate of all plays that were launched in 2016, we can see that 112 out of 177 succeeded, meanwhile 65 failed. Therefore, in the US in 2016, there were 63% successes and 37% failures. If we compare this data to the rest of the world, we see that in 2016, the subcategory of ‘Plays’ projects had a successes rate of 69% and the failure rate was 31%. Our observations, show that the year was fairly successful in the US and across the glove, however launching her campaign in June may have hurt her chanced of meeting her goal. Let’s evaluate the relationship of goal and outcomes. 
 
-![Pivot Table for Outcomes of Launch Date for US_2016_Plays]
+![Pivot Table for Outcomes of Launch Date for US_2016_Plays](https://github.com/cynmmarin/Kickstarter-Analysis/blob/main/Pivot%20Table%20for%20Outcomes%20of%20Launch%20Date%20for%202016_Plays.png) 
 
 ## Analysis of Outcomes Based on Goals
 
